@@ -97,9 +97,9 @@ export default function SaazComingSoon() {
               {/* Logo and location */}
               <div className="flex items-center gap-3 mb-3">
                 <img 
-                  src="/logo.png" 
+                  src="/logo2.png" 
                   alt="Saaz Foundation Logo" 
-                  className="w-10 h-10"
+                  className="w-20 h-15"
                 />
                 <div>
                   <h1 className="text-xl font-bold text-gray-800 font-playfair">Saaz Welfare</h1>
